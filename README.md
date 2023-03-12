@@ -1,5 +1,5 @@
 # OSRS-Server
-
+THIS REPOSITORY HAS BEEN ARCHIVED AND NOW MOVED INTO OUR RUNETOPIC ORG: [osrs-server](https://github.com/runetopic/osrs-server)
 Revision 211 OSRS server written in Kotlin.
 
 <a href="#"><img src="https://img.shields.io/badge/Build:%20-211-blue.svg"/></a>
